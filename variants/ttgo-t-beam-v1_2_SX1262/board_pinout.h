@@ -41,8 +41,8 @@
 
     //  GPS
     #define HAS_GPS_CTRL
-    #define GPS_RX              12
-    #define GPS_TX              34
+    #define GPS_RX              34
+    #define GPS_TX              -1
     #define GPS_BAUDRATE        115200
 
     //  OTHER

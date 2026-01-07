@@ -38,8 +38,8 @@
     #define OLED_RST            -1
 
     //  GPS
-    #define GPS_RX              12
-    #define GPS_TX              34
+    #define GPS_RX              34
+    #define GPS_TX              -1
 
     //  OTHER
     #define BUTTON_PIN          4

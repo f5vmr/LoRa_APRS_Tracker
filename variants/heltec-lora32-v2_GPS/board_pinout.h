@@ -39,8 +39,8 @@
     #define OLED_DISPLAY_HAS_RST_PIN
 
     //  GPS
-    #define GPS_RX              12
-    #define GPS_TX              34
+    #define GPS_RX              34
+    #define GPS_TX              -1
 
     //  OTHER
     #define BATTERY_PIN         37
